@@ -8,7 +8,6 @@ This repository contains my solutions to various code challenges from online pla
 - [Challenges](#challenges)
 - [Directory Structure](#directory-structure)
 - [How to Use](#how-to-use)
-- [Contributions](#contributions)
 - [License](#license)
 
 ## Introduction

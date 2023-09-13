@@ -24,6 +24,7 @@ Prior to having fancy iPhones, teenagers would wear out their thumbs sending SMS
 ```
 
 Prior to the development of T9 systems (predictive text entry), the method to type words was called "multi-tap" and involved pressing a button repeatedly to cycle through all its possible values, in order. For example:
+gith
 
 - Pressing the button 7 repeatedly will cycle through the letters P -> Q -> R -> S -> 7 -> P -> ....
 - Pressing the button 0 is cycling through SPACE -> 0 -> SPACE -> 0 -> ....

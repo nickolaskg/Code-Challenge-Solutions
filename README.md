@@ -38,13 +38,11 @@ To run the JavaScript code solutions provided using Node.js:
 
 1. **Install Node.js**: If you haven't already, [download and install Node.js](https://nodejs.org/).
 
-2. **Navigate to a Challenge Directory**: Go to the specific challenge directory you're interested in (e.g., `leetcode`, `codewars`).
+1. **Open Terminal**: Open your terminal/command prompt and navigate to the challenge directory.
 
-3. **Choose a Solution**: Inside the challenge directory, you'll find a `solution.js` file, which contains my JavaScript solution.
+1. **Navigate to a Challenge Directory**: Go to the specific challenge directory you're interested in (e.g., `leetcode`, `codewars`), and then navigate into the desired challenge directory.
 
-4. **Open Terminal**: Open your terminal/command prompt and navigate to the challenge directory.
-
-5. **Run the Code**: Use the `node` command to run the JavaScript file. For example:
+1. **Run the Code**: Use the `node` command to run the JavaScript file. For example:
    ```bash
    node solution.js
    
